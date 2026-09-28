@@ -26,30 +26,6 @@ I build responsive web interfaces and practical Windows desktop utilities. I wor
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🚀 Featured work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/irlanfazryana23/Netwrok_Resetter">Netwrok_Resetter</a></h3>
-      <p>A simple Windows app for repairing common DNS, DHCP, and Winsock connection problems.</p>
-      <code>C#</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/irlanfazryana23/ClearSpace">ClearSpace</a></h3>
-      <p>A lightweight Windows cleaner built with C# and WPF. Review temporary files and browser caches before moving them to the Recycle Bin.</p>
-      <code>C#</code> <code>WPF</code>
-    </td>
-  </tr>
-</table>
-
-### 📊 GitHub activity
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=irlanfazryana23&show_icons=true&hide_title=true&theme=transparent&hide_border=true" alt="Irlan Fazryana's GitHub statistics" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=irlanfazryana23&theme=transparent&hide_border=true" alt="Irlan Fazryana's GitHub contribution streak" />
-</p>
-
 ### 📫 Connect
 
 - GitHub: [@irlanfazryana23](https://github.com/irlanfazryana23)
