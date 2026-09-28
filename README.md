@@ -25,7 +25,3 @@ I build responsive web interfaces and practical Windows desktop utilities. I wor
 ![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 📫 Connect
-
-- GitHub: [@irlanfazryana23](https://github.com/irlanfazryana23)
