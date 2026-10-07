@@ -44,6 +44,19 @@ I build responsive web interfaces and practical Windows desktop utilities. I wor
       <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-blue?style=flat-square">
     </td>
   </tr>
+  <tr>
+    <td width="80" align="center">
+      <img src="https://raw.githubusercontent.com/irlanfazryana23/ClearSpace/main/assets/app-ico.png" width="56" alt="ClearSpace logo">
+    </td>
+    <td>
+      <a href="https://github.com/irlanfazryana23/ClearSpace"><b>ClearSpace</b></a><br>
+      A lightweight Windows cleaner. Review temporary files and browser caches before moving them to the Recycle Bin, with conservative cleanup checks and a responsive interface.<br><br>
+      <a href="https://github.com/irlanfazryana23/ClearSpace/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/irlanfazryana23/ClearSpace?style=flat-square"></a>
+      <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white">
+      <img alt="WPF" src="https://img.shields.io/badge/WPF-5C2D91?style=flat-square&logo=dotnet&logoColor=white">
+      <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white">
+    </td>
+  </tr>
 </table>
 
 ---
