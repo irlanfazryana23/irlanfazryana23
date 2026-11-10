@@ -57,6 +57,19 @@ I build responsive web interfaces and practical Windows desktop utilities. I wor
       <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white">
     </td>
   </tr>
+  <tr>
+    <td width="80" align="center">
+      <img src="https://raw.githubusercontent.com/irlanfazryana23/cctv-backup/main/cctv-logo.png" width="56" alt="CCTV Backup logo">
+    </td>
+    <td>
+      <a href="https://github.com/irlanfazryana23/cctv-backup"><b>CCTV Backup</b></a><br>
+      A Windows desktop tool for backing up recordings from Sanec / Xiongmai branch DVRs to an external disk, with resumable transfers, backup manifests, and built-in H.264 playback.<br><br>
+      <a href="https://github.com/irlanfazryana23/cctv-backup/tags"><img alt="Version" src="https://img.shields.io/github/v/tag/irlanfazryana23/cctv-backup?label=version&style=flat-square"></a>
+      <img alt=".NET 8" src="https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white">
+      <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white">
+      <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-blue?style=flat-square">
+    </td>
+  </tr>
 </table>
 
 ---
@@ -72,4 +85,3 @@ I build responsive web interfaces and practical Windows desktop utilities. I wor
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
